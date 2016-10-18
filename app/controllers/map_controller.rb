@@ -9,5 +9,4 @@ class MapController < ApplicationController
       marker.json({title: place.title})
     end
   end
-
 end
